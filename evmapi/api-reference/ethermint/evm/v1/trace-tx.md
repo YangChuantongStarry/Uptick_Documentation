@@ -1,5 +1,0 @@
-# Trace tx
-
-{% swagger src="https://rest.uptick.network/swagger/swagger.yaml" path="/ethermint/evm/v1/trace_tx" method="get" %}
-[https://rest.uptick.network/swagger/swagger.yaml](https://rest.uptick.network/swagger/swagger.yaml)
-{% endswagger %}
